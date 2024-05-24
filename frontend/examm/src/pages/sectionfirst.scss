@@ -1,0 +1,37 @@
+.image{
+    background-image: url(../assets/images/hero_1.jpg);
+    background-size: cover;
+    height: 80vh;
+    padding-top: 20px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 30px;
+    
+    h1{
+    margin-left: 1100px;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 350px;
+    }
+    p{
+        width: 500px;
+        margin-left: 600px;
+        margin-left: 1100px;
+    font-size: 30px;
+    }
+    button{
+        background-color: #5a50e58d;
+        width: 500px;
+        margin-left: 1100px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+        width: 150px;
+        border: none;
+        border-radius: 5px;
+        color: white;
+        height: 40px;
+    }
+}
